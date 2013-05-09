@@ -10,7 +10,7 @@
 <H1>Sample PHP App running on Stratos2</H1>
 
 <br>
-This app is using 
+This demo app is very very basic and is using 
 <?php 
 echo 'Current PHP version: ' . phpversion(); 
 ?>
