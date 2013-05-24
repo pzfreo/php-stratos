@@ -14,7 +14,5 @@ This demo app is very very basic and is using
 <?php 
 echo 'Current PHP version: ' . phpversion(); 
 ?>
-<?php sleep(5) ?>
-Slept
 </BODY>
 </HTML>
