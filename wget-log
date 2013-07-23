@@ -1,0 +1,15 @@
+--2013-05-24 11:36:15--  http://myphp.freo.me:8280/
+Resolving myphp.freo.me... 174.129.16.181
+Connecting to myphp.freo.me|174.129.16.181|:8280... connected.
+HTTP request sent, awaiting response... No data received.
+Retrying.
+
+--2013-05-24 11:38:16--  (try: 2)  http://myphp.freo.me:8280/
+Connecting to myphp.freo.me|174.129.16.181|:8280... connected.
+HTTP request sent, awaiting response... No data received.
+Retrying.
+
+--2013-05-24 11:39:52--  (try: 3)  http://myphp.freo.me:8280/
+Connecting to myphp.freo.me|174.129.16.181|:8280... failed: Connection refused.
+Resolving myphp.freo.me... 174.129.16.181
+Connecting to myphp.freo.me|174.129.16.181|:8280... failed: Connection refused.
