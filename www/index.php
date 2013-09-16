@@ -7,7 +7,7 @@
 </TITLE>
 </HEAD>
 <BODY>
-<H1>Sample PHP App running on Stratos2 in Mountain View</H1>
+<H1>Sample PHP App running on Stratos2 in London</H1>
 
 <br>
 This demo app is very very basic and is using 
